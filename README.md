@@ -1,4 +1,4 @@
-### Hi there 👋
+hello! i am Sowraj Kumar### Hi there 👋
 
 <!--
 **kumar3551/kumar3551** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
